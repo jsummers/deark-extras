@@ -29,6 +29,11 @@ sequences. This is a copy of the source data.
 This will be useful if Deark is ever changed to use a different identification
 method.
 
+=== "crc_old" subdirectory ===
+
+Same as "crc", but these items are no longer used in the current version of
+Deark.
+
 === Other files ===
 
 misc/bk1.png: Original copy of the background image file embedded in some
