@@ -34,6 +34,10 @@ method.
 Same as "crc", but these items are no longer used in the current version of
 Deark.
 
+=== "cp932" subdirectory ===
+
+Refer to cp932/readme.txt.
+
 === Other files ===
 
 misc/bk1.png: Original copy of the background image file embedded in some
